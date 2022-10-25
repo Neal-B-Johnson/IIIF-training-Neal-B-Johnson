@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 20,
+    "height" : 15
+  }, {
+    "width" : 40,
+    "height" : 30
+  }, {
+    "width" : 79,
+    "height" : 59
+  }, {
+    "width" : 157,
+    "height" : 118
+  }, {
+    "width" : 313,
+    "height" : 235
+  }, {
+    "width" : 625,
+    "height" : 469
+  } ],
+  "profile" : "level0",
+  "width" : 625,
+  "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 469
+}
