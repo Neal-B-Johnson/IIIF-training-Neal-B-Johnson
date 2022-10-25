@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 625,
+    "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test/canvas/",
+    "label" : {
+      "none" : [ "monkey-test" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 20,
+              "height" : 15
+            }, {
+              "width" : 40,
+              "height" : 30
+            }, {
+              "width" : 79,
+              "height" : 59
+            }, {
+              "width" : 157,
+              "height" : 118
+            }, {
+              "width" : 313,
+              "height" : 235
+            }, {
+              "width" : 625,
+              "height" : 469
+            } ],
+            "profile" : "level0",
+            "width" : 625,
+            "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 469
+          } ],
+          "format" : "image/jpeg",
+          "width" : 625,
+          "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 469
+        },
+        "target" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/monkey-test/canvas/"
+      } ]
+    } ],
+    "height" : 469
+  }, {
     "width" : 3264,
     "id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/images/finch-raw/canvas/",
     "label" : {
