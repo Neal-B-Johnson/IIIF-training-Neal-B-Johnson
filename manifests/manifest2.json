@@ -1,0 +1,221 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "NJ Test 1",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Photographs of animals on the Galapagos Islands",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "(c) Neal B Johnson",
+  "sequences" : [ {
+    "@id" : "http://96ae8566-a8e9-44ca-b9ad-d4c9e84644da",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c3686d07-d725-4e06-a2a2-5d59dfd25137",
+      "@type" : "sc:Canvas",
+      "label" : "Blue-Footed Boobies",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://85d83082-cd04-4e8c-a382-e976f7fb4873",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/boobies-edit/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/boobies-edit",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://c3686d07-d725-4e06-a2a2-5d59dfd25137"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://970bc047-74b0-4223-a640-c5835089ffa8",
+      "@type" : "sc:Canvas",
+      "label" : "Cactus Finch",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://db8869e0-f1b6-451b-9b3d-a9368eb1db47",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/finch-edit/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/finch-edit",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://970bc047-74b0-4223-a640-c5835089ffa8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1005fdbc-87f2-43ce-b75c-0bc4e3634421",
+      "@type" : "sc:Canvas",
+      "label" : "Magnificent Frigatebird",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c5650c3b-9855-41d0-82f5-9be2351bfb6a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/frigate-edit/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/frigate-edit",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://1005fdbc-87f2-43ce-b75c-0bc4e3634421"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://714dbc76-21ab-4b84-afc9-d883d0edf011",
+      "@type" : "sc:Canvas",
+      "label" : "Red Crabs on Lava Rock",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://011803ac-9088-4a84-b243-8747b6b52f1f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/crabs-edit/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/crabs-edit",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://714dbc76-21ab-4b84-afc9-d883d0edf011"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://72d6db18-2036-401e-b5d4-058d388caa43",
+      "@type" : "sc:Canvas",
+      "label" : "Red Crabs on Lava Rock - RAW",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://852982ea-7f81-49aa-ae42-d31fc93d90eb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/crabs-raw/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/crabs-raw",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://72d6db18-2036-401e-b5d4-058d388caa43"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b81a7c9a-84a3-4ec4-88d5-c7dca82e31c7",
+      "@type" : "sc:Canvas",
+      "label" : "Land Iguana",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f11db724-22a7-4aa8-8109-bad0af8c4bc1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iguana-edit/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iguana-edit",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://b81a7c9a-84a3-4ec4-88d5-c7dca82e31c7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://54170080-7f3a-48a3-a806-9631219c4741",
+      "@type" : "sc:Canvas",
+      "label" : "Land Iguana - RAW",
+      "height" : 2448,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0270a8ef-ca9b-425b-97ee-28b086bba00a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iguana-raw/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iguana-raw",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://54170080-7f3a-48a3-a806-9631219c4741"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Blue-footed Boobies",
+    "canvases" : [ "http://c3686d07-d725-4e06-a2a2-5d59dfd25137" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Cactus Finch",
+    "canvases" : [ "http://970bc047-74b0-4223-a640-c5835089ffa8" ]
+  } ]
+}
