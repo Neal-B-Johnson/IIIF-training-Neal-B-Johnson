@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/fc8accfd9b0d6f5e67ff161df02d9a71.json" ],
+  "otherContent" : [ ],
   "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/collection.json",
   "label" : "All annotations loaded in Neal-B-Johnson/IIIF-training-Neal-B-Johnson project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
