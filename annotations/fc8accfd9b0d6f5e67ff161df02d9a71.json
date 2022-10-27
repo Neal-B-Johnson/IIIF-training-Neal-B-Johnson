@@ -1,0 +1,137 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male Blue-Footed Booby \"whistle\" mating call\n<iframe src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370768785&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true\" width=\"100%\" height=\"20\" frameborder=\"no\" scrolling=\"no\">\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a style=\"color: #cccccc; text-decoration: none;\" title=\"vanWinkle\" href=\"https://soundcloud.com/vanwinkletunes\" target=\"_blank\" rel=\"noopener\">vanWinkle &middot; <a style=\"color: #cccccc;\" title=\"Blue-footed Booby (Sula nebouxii)\" href=\"https://soundcloud.com/vanwinkletunes/blue-footed-booby-sula/s-H42LfQdNzPc\" target=\"_blank\" rel=\"noopener\">Blue-footed Booby (Sula nebouxii)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Male Blue-Footed Booby \"whistle\" mating call</p>\n<p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370768785&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true\" width=\"100%\" height=\"20\" frameborder=\"no\" scrolling=\"no\"></iframe></p>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a style=\"color: #cccccc; text-decoration: none;\" title=\"vanWinkle\" href=\"https://soundcloud.com/vanwinkletunes\" target=\"_blank\" rel=\"noopener\">vanWinkle</a> &middot; <a style=\"color: #cccccc;\" title=\"Blue-footed Booby (Sula nebouxii)\" href=\"https://soundcloud.com/vanwinkletunes/blue-footed-booby-sula/s-H42LfQdNzPc\" target=\"_blank\" rel=\"noopener\">Blue-footed Booby (Sula nebouxii)</a></div>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male",
+      "@type" : "oa:Tag",
+      "chars" : "Male"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Blue-Footed-Booby",
+      "@type" : "oa:Tag",
+      "chars" : "Blue-Footed-Booby"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mating call",
+      "@type" : "oa:Tag",
+      "chars" : "Mating call"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bird",
+      "@type" : "oa:Tag",
+      "chars" : "bird"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110201392",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-10-27T01:13:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666833184593",
+    "dcterms:modified" : "2022-10-27T01:55:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1674,584,877,1194"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1673.52,584.432h438.376v0h438.376v597.224v597.224h-438.376h-438.376v-597.224z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4787908a-e8c4-46a2-80fa-deb2328c8ccb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.112\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3686d07-d725-4e06-a2a2-5d59dfd25137"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Female Blue-Footed-Booby",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Female Blue-Footed-Booby</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Blue-Footed Booby",
+      "@type" : "oa:Tag",
+      "chars" : "Blue-Footed Booby"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bird",
+      "@type" : "oa:Tag",
+      "chars" : "bird"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Female",
+      "@type" : "oa:Tag",
+      "chars" : "Female"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110201392",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-10-27T01:13:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666833229405",
+    "dcterms:modified" : "2022-10-27T15:40:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=424,332,938,1290"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M424.496,332.016h468.84v0h468.84v645.096v645.096h-468.84h-468.84v-645.096z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_93d4fa65-ece3-45cf-bece-724b128145a2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3.85816\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3686d07-d725-4e06-a2a2-5d59dfd25137"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://static.wixstatic.com/media/e99069_b706c7ee5374460482facf371169cfb4~mv2.jpg\" alt=\"Male Blue-Footed Booby Mating call\" width=\"1022\" height=\"396\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://static.wixstatic.com/media/e99069_b706c7ee5374460482facf371169cfb4~mv2.jpg\" alt=\"Male Blue-Footed Booby Mating call\" width=\"1022\" height=\"396\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sonogram",
+      "@type" : "oa:Tag",
+      "chars" : "Sonogram"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110201392",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-10-27T15:30:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666884651350",
+    "dcterms:modified" : "2022-10-27T15:50:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1439,175,1355,398"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1439.31217,175.01587h677.40212v0h677.40212v198.8836v198.8836h-677.40212h-677.40212v-198.8836z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a2c8d6ba-84be-462c-96b9-f68d1f0f7442\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.85816\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3686d07-d725-4e06-a2a2-5d59dfd25137"
+    } ]
+  } ],
+  "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/fc8accfd9b0d6f5e67ff161df02d9a71.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
