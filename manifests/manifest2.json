@@ -198,6 +198,19 @@
         },
         "on" : "http://54170080-7f3a-48a3-a806-9631219c4741"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://neal-b-johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/9c01ac5c0b64c77234dd891e0f8be620.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Some bird 1"
+      }, {
+        "@id" : "https://neal-b-johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/6237f2211b33132a21d825a36ccd7fca.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Some bird 2"
+      }, {
+        "@id" : "https://neal-b-johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/fc8accfd9b0d6f5e67ff161df02d9a71.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Some bird 3"
+      } ],
       "related" : ""
     } ]
   } ],
