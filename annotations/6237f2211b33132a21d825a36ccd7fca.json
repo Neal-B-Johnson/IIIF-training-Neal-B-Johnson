@@ -1,0 +1,51 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cactus Finch song\n<iframe src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370768779&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true\" width=\"100%\" height=\"20\" frameborder=\"no\" scrolling=\"no\">\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a style=\"color: #cccccc; text-decoration: none;\" title=\"vanWinkle\" href=\"https://soundcloud.com/vanwinkletunes\" target=\"_blank\" rel=\"noopener\">vanWinkle &middot; <a style=\"color: #cccccc; text-decoration: none;\" title=\"Large Cactus Finch (Geospiza conirostris)\" href=\"https://soundcloud.com/vanwinkletunes/large-cactus-finch-geospiza/s-x5FM9wMy3A0\" target=\"_blank\" rel=\"noopener\">Large Cactus Finch (Geospiza conirostris)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cactus Finch song</p>\n<p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370768779&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true\" width=\"100%\" height=\"20\" frameborder=\"no\" scrolling=\"no\"></iframe></p>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a style=\"color: #cccccc; text-decoration: none;\" title=\"vanWinkle\" href=\"https://soundcloud.com/vanwinkletunes\" target=\"_blank\" rel=\"noopener\">vanWinkle</a> &middot; <a style=\"color: #cccccc; text-decoration: none;\" title=\"Large Cactus Finch (Geospiza conirostris)\" href=\"https://soundcloud.com/vanwinkletunes/large-cactus-finch-geospiza/s-x5FM9wMy3A0\" target=\"_blank\" rel=\"noopener\">Large Cactus Finch (Geospiza conirostris)</a></div>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Galapagos",
+      "@type" : "oa:Tag",
+      "chars" : "Galapagos"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cactus Finch",
+      "@type" : "oa:Tag",
+      "chars" : "Cactus Finch"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bird",
+      "@type" : "oa:Tag",
+      "chars" : "bird"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110201392",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-10-27T01:28:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666834133114",
+    "dcterms:modified" : "2022-10-27T01:56:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1239,535,1030,994"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1389.50769,680.55933c95.10777,-83.48554 229.27268,-145.65441 364.08775,-145.58013v0v0c134.81507,0.07428 252.26161,58.23224 364.08775,145.58013c111.82614,87.34789 155.29154,220.4492 150.81009,351.46151c-4.48145,131.01231 -56.90976,259.93561 -150.81009,351.46151c-93.90033,91.5259 -229.27268,145.65441 -364.08775,145.58013c-134.81507,-0.07428 -269.07286,-54.35133 -364.08775,-145.58013c-95.01489,-91.2288 -150.78687,-219.40934 -150.81009,-351.46151c-0.02322,-132.05217 55.70232,-267.97597 150.81009,-351.46151z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_8fb9f004-fd2b-45dd-a9fa-ac834623d979\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"43.0848\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://970bc047-74b0-4223-a640-c5835089ffa8"
+    } ]
+  } ],
+  "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/annotations/6237f2211b33132a21d825a36ccd7fca.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
