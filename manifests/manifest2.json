@@ -3,6 +3,11 @@
   "@id" : "https://Neal-B-Johnson.github.io/IIIF-training-Neal-B-Johnson/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "NJ Test 1",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/110201392/29020ae3c923d56d2e890afa43b20509/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Photographs of animals on the Galapagos Islands",
